@@ -1,0 +1,6 @@
+projectKey=com.sapient.sonarTraining:sonar-example
+serverUrl=http://localhost:9000
+serverVersion=7.7.0.23042
+dashboardUrl=http://localhost:9000/dashboard?id=com.sapient.sonarTraining%3Asonar-example
+ceTaskId=AWqhWYhPkeDciRcSzJWd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWqhWYhPkeDciRcSzJWd
